@@ -10,7 +10,6 @@
         "node-sass": "^4.11.0",
         "react": "^16.8.5",
         "react-dom": "^16.8.5",
-        "react-infinite-scroll-component": "^4.5.2",
         "react-loading-skeleton": "^1.1.1",
         "react-redux": "^6.0.1",
         "react-router-dom": "^5.0.0",
